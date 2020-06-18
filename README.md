@@ -43,6 +43,3 @@
 * [ ] Projeto Instagram 
 * [ ] Typescript 
 * [ ] WebRTC - Criando sistema de chat e vídeo
-* [ ] Técnicas/Macetes para Desenvolvimento Front-End 
-* [ ] JavaScript Avançado, Bibliotecas e Frameworks JS 
-* [ ] jQuery Mobile e jQuery UI 
