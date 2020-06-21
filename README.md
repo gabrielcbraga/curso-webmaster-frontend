@@ -12,7 +12,7 @@
 * [x] JavaScript e Lógica de Programação 
 * [x] Introduzindo JQuery 
 * [x] Dominando JQuery 
-* [ ] Toques Finais 
+* [x] Toques Finais 
 * [ ] Criando Template de E-mail com HTML/CSS 
 * [ ] Criando Layout no Photoshop e Conhecendo Font Awesome 
 * [ ] Flexbox Layout e FrameWorks 
