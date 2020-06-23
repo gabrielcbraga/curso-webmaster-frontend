@@ -13,8 +13,8 @@
 * [x] Introduzindo JQuery 
 * [x] Dominando JQuery 
 * [x] Toques Finais 
-* [ ] Criando Template de E-mail com HTML/CSS 
-* [ ] Criando Layout no Photoshop e Conhecendo Font Awesome 
+* [x] Criando Template de E-mail com HTML/CSS 
+* [x] Criando Layout no Photoshop e Conhecendo Font Awesome 
 * [ ] Flexbox Layout e FrameWorks 
 * [ ] Projeto #6 
 * [ ] Projeto #7(Materialize)
