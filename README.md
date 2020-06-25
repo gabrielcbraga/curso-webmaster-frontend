@@ -15,7 +15,7 @@
 * [x] Toques Finais 
 * [x] Criando Template de E-mail com HTML/CSS 
 * [x] Criando Layout no Photoshop e Conhecendo Font Awesome 
-* [ ] Flexbox Layout e FrameWorks 
+* [x] Flexbox Layout e FrameWorks 
 * [ ] Projeto #6 
 * [ ] Projeto #7(Materialize)
 * [ ] Projeto #8(BootStrap) 
