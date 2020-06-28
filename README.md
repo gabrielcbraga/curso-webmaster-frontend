@@ -16,8 +16,8 @@
 * [x] Criando Template de E-mail com HTML/CSS 
 * [x] Criando Layout no Photoshop e Conhecendo Font Awesome 
 * [x] Flexbox Layout e FrameWorks 
-* [ ] Projeto #6 
-* [ ] Projeto #7(Materialize)
+* [x] Projeto #6 
+* [x] Projeto #7(Materialize)
 * [ ] Projeto #8(BootStrap) 
 * [ ] HTML5 Avançado e CSS3 Avançado 
 * [ ] Técnicas/Macetes para Desenvolvimento Front-End 
