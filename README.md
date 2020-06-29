@@ -18,7 +18,7 @@
 * [x] Flexbox Layout e FrameWorks 
 * [x] Projeto #6 
 * [x] Projeto #7(Materialize)
-* [ ] Projeto #8(BootStrap) 
+* [x] Projeto #8(BootStrap) 
 * [ ] HTML5 Avançado e CSS3 Avançado 
 * [ ] Técnicas/Macetes para Desenvolvimento Front-End 
 * [ ] JavaScript Avançado, Bibliotecas e Frameworks JS 
