@@ -20,8 +20,8 @@
 * [x] Projeto #7(Materialize)
 * [x] Projeto #8(BootStrap) 
 * [x] HTML5 Avançado e CSS3 Avançado 
-* [ ] Técnicas/Macetes para Desenvolvimento Front-End 
-* [ ] JavaScript Avançado, Bibliotecas e Frameworks JS 
+* [x] Técnicas/Macetes para Desenvolvimento Front-End 
+* [x] JavaScript Avançado, Bibliotecas e Frameworks JS 
 * [ ] jQuery Mobile e jQuery UI 
 * [ ] Projeto #9 
 * [ ] Node JS 
