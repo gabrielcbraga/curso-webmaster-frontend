@@ -22,7 +22,7 @@
 * [x] HTML5 Avançado e CSS3 Avançado 
 * [x] Técnicas/Macetes para Desenvolvimento Front-End 
 * [x] JavaScript Avançado, Bibliotecas e Frameworks JS 
-* [ ] jQuery Mobile e jQuery UI 
+* [x] jQuery Mobile e jQuery UI 
 * [ ] Projeto #9 
 * [ ] Node JS 
 * [ ] Sass e Less 
