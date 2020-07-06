@@ -24,8 +24,8 @@
 * [x] JavaScript Avançado, Bibliotecas e Frameworks JS 
 * [x] jQuery Mobile e jQuery UI 
 * [x] Projeto #9 
-* [ ] Node JS 
-* [ ] Sass e Less 
+* [x] Node JS 
+* [x] Sass e Less 
 * [ ] Projeto #10 
 * [ ] JavaScript ES6 
 * [ ] Prospecção de clientes, Técnicas de Venda e Produtividade 
