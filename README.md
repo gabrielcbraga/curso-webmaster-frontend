@@ -26,7 +26,7 @@
 * [x] Projeto #9 
 * [x] Node JS 
 * [x] Sass e Less 
-* [ ] Projeto #10 
+* [x] Projeto #10 
 * [ ] JavaScript ES6 
 * [ ] Prospecção de clientes, Técnicas de Venda e Produtividade 
 * [ ] UX e UI 
