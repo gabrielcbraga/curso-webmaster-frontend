@@ -28,7 +28,7 @@
 * [x] Sass e Less 
 * [x] Projeto #10 
 * [x] JavaScript ES6 
-* [ ] Prospecção de clientes, Técnicas de Venda e Produtividade 
+* [x] Prospecção de clientes, Técnicas de Venda e Produtividade 
 * [ ] UX e UI 
 * [ ] Bootstrap V4.0 
 * [ ] Projeto Extra - Dashboard 
