@@ -29,7 +29,7 @@
 * [x] Projeto #10 
 * [x] JavaScript ES6 
 * [x] Prospecção de clientes, Técnicas de Venda e Produtividade 
-* [ ] UX e UI 
+* [x] UX e UI 
 * [x] Bootstrap V4.0 
 * [ ] Projeto Extra - Dashboard 
 * [ ] CSS Orientado a Objetos 
