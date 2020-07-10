@@ -31,7 +31,7 @@
 * [x] Prospecção de clientes, Técnicas de Venda e Produtividade 
 * [x] UX e UI 
 * [x] Bootstrap V4.0 
-* [ ] Projeto Extra - Dashboard 
+* [x] Projeto Extra - Dashboard 
 * [ ] CSS Orientado a Objetos 
 * [ ] Webpack 
 * [ ] Gulp
