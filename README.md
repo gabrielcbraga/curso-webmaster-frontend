@@ -32,7 +32,7 @@
 * [x] UX e UI 
 * [x] Bootstrap V4.0 
 * [x] Projeto Extra - Dashboard 
-* [ ] CSS Orientado a Objetos 
+* [x] CSS Orientado a Objetos 
 * [ ] Webpack 
 * [ ] Gulp
 * [ ] React + Redux (Bônus) 
