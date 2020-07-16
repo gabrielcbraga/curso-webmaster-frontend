@@ -33,13 +33,13 @@
 * [x] Bootstrap V4.0 
 * [x] Projeto Extra - Dashboard 
 * [x] CSS Orientado a Objetos 
-* [ ] Webpack 
-* [ ] Gulp
-* [ ] React + Redux (Bônus) 
-* [ ] Angular 7.0 + CLI 
-* [ ] Criando Aplicativo de Anotações (HTML + CSS + JS)  
-* [ ] Projeto #11 
-* [ ] Projeto Netflix 
-* [ ] Projeto Instagram 
-* [ ] Typescript 
-* [ ] WebRTC - Criando sistema de chat e vídeo
+* [x] Webpack 
+* [x] Gulp
+* [x] React + Redux (Bônus) 
+* [x] Angular 7.0 + CLI 
+* [x] Criando Aplicativo de Anotações (HTML + CSS + JS)  
+* [x] Projeto #11 
+* [x] Projeto Netflix 
+* [x] Projeto Instagram 
+* [x] Typescript 
+* [x] WebRTC - Criando sistema de chat e vídeo
